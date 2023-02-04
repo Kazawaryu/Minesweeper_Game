@@ -12,19 +12,19 @@ The front frame is written by Java Swing.
 - Save / Load function
 - Hack mode
 
-<<<<<<< HEAD
+
 
 
 ### Game Screen
 
 The main frame when game starts. Load / Save function frame.
 
-<img src="G:\Notes\Java-A\MineSweeper\MineSweeper\Minesweeper_Game\Pics\loadSave.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Kazawaryu/Minesweeper_Game/main/Pics/loadSave.png" style="zoom:50%;" />
 
 
 
 Double players mode frame, after load local save.
 
-<img src="G:\Notes\Java-A\MineSweeper\MineSweeper\Minesweeper_Game\Pics\Doubleplayer.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Kazawaryu/Minesweeper_Game/main/Pics/Doubleplayer.png" style="zoom:50%;" />
 =======
->>>>>>> 092b36854d45bf1f3cabf27c5ec70c828a3a996e
+
